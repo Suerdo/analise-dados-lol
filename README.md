@@ -51,5 +51,9 @@ A abordagem inclui:
 - A maioria das derrotas ocorreu entre **16 e 33 minutos**, sugerindo dificuldades na transição do **mid para o late game**.  
 - **BOT** foi a lane em que tive o maior número de derrotas, indicando um ponto crítico a ser melhorado.  
 - Campeões jogados na função de **suporte** apresentaram uma alta taxa de derrotas, sugerindo a necessidade de ajustes na estratégia, na escolha de campeões ou na tomada de decisões dentro do jogo.  
-- Partidas em que tive um alto número de mortes no **early game** resultaram frequentemente em um **snowball adversário**, aumentando a probabilidade de derrota.  
+- Partidas em que tive um alto número de mortes no **early game** resultaram frequentemente em um **snowball adversário**, aumentando a probabilidade de derrota.
 
+---
+
+## Resultado
+- Quando fiz essa análise, eu estava no Diamante III. Após finalizá-la e seguir os insights gerados, alcancei o Grão-Mestre (segundo maior elo do jogo).
